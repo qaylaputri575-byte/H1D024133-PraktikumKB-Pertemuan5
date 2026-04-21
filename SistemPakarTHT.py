@@ -1,12 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 
-# =========================================
-# SISTEM PAKAR DIAGNOSA PENYAKIT THT
-# Berdasarkan data modul praktikum
-# Metode: pencocokan gejala + ranking persentase kecocokan
-# =========================================
-
 GEJALA = {
     "G1": "Nafas abnormal",
     "G2": "Suara serak",
